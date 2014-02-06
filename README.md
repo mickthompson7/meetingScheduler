@@ -3,7 +3,7 @@ meetingScheduler
 
 ## Build the project:
 To run the build 
- ♯ ./gradlew      (gradlew.bat on Windows)
+ ♯ ./gradlew build      ('gradlew.bat build' on Windows)
 
 ## Open the project in the IDE:
 - Intellij
